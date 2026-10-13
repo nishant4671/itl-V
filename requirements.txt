@@ -1,0 +1,14 @@
+# Personal Expense Tracker - IT Laboratory V (PBL Project)
+# Dependencies for Units IV, V, and VI
+
+# Unit IV: Data Analysis
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Unit V: Data Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Unit VI: Web Framework & API Testing
+flask>=3.0.0
+requests>=2.31.0
